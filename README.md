@@ -46,20 +46,20 @@ To set up the AWSII project locally, follow these steps:
    ```bash
    git clone https://github.com/YourUsername/AWSII.git
    
-  ## Project Screenshots
+
 
 ## Project Screenshots
 
-| **Feature**             | **Screenshot**                                                   |
-|-------------------------|------------------------------------------------------------------|
-| **404 Error Page**      | ![404 Error Page](screenshoots/awsii_404.png)                   |
-| **Chat Interface**      | ![Chat Interface](screenshoots/awsii_chat.png)                  |
-| **Create Project**      | ![Create Project](screenshoots/awsii_create_project.png)        |
-| **Homepage**            | ![Homepage](screenshoots/awsii_home.png)                        |
-| **Single Project View** | ![Single Project View](screenshoots/awsii_one_project.png)      |
-| **User Profile**        | ![User Profile](screenshoots/awsii_profile.png)                 |
-| **Projects List**       | ![Projects List](screenshoots/awsii_projects.png)               |
-| **Sign Up Page**        | ![Sign Up Page](screenshoots/awsii_sign_up.png)                 |
+| **Feature**                 | **Screenshot**                                                                                               |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Homepage**                | ![Homepage](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_home.png)        |
+| **Sign Up Page**            | ![Sign Up Page](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_sign_up.png) |
+| **Project Creation**        | ![Project Creation](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_create_project.png) |
+| **Project List**            | ![Project List](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_projects.png) |
+| **Single Project View**     | ![Single Project](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_one_project.png) |
+| **User Profile**            | ![User Profile](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_profile.png) |
+| **Chat Feature**            | ![Chat Feature](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_chat.png)    |
+| **404 Error Page**          | ![404 Error Page](https://github.com/amgharhind/AWSII-Crowdfunding/blob/master/screenshoots/awsii_404.png)   |
 
 
 
